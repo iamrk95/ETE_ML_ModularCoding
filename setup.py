@@ -5,7 +5,6 @@ PROJECT_NAME = 'Machine Learning Project'
 VERSION = '0.0.1'
 DESCRIPTION = 'This is machine learning project with modular coding'
 AUTHOR_NAME = 'Rahul K'
-AUTHOR_EMAIL = 'rahulrk2495@gmail.com'
 
 REQUIREMENTS_FILE_NAME = "requirements.txt"
 
