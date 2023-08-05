@@ -25,7 +25,6 @@ setup(name=PROJECT_NAME,
       version=VERSION,
       description=DESCRIPTION,
       author=AUTHOR_NAME,
-      author_email=AUTHOR_EMAIL,
       #url='https://www.python.org/sigs/distutils-sig/',
       packages=find_packages(),
       install_requires = get_requirements_list()
